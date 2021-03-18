@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618067485341",
+    "project_id": "comedoressociales-6c06a",
+    "storage_bucket": "comedoressociales-6c06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618067485341:android:f23ab2728ecd5628992a74",
+        "android_client_info": {
+          "package_name": "com.example.comedoressociales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618067485341-ggud49v1clnkg15a1mqsem814mbqihof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE8oV0tv_NjhhkoDRTWovDDREJ-z4VA5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618067485341-ggud49v1clnkg15a1mqsem814mbqihof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
